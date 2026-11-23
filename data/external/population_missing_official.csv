@@ -1,0 +1,13 @@
+country,city,population,year,source,note
+AT,Graz,291072,2020,Statistik Austria - Bevoelkerung zu Jahresbeginn 2020 (OGD_bevstandjbab2002_BevStand_2020),municipality 60101; Eurostat has Austrian cities only until 2014
+AT,Innsbruck,131961,2020,Statistik Austria - Bevoelkerung zu Jahresbeginn 2020 (OGD_bevstandjbab2002_BevStand_2020),municipality 70101
+AT,Klagenfurt,101300,2020,Statistik Austria - Bevoelkerung zu Jahresbeginn 2020 (OGD_bevstandjbab2002_BevStand_2020),municipality 20101 (Klagenfurt am Woerthersee)
+AT,Linz,206595,2020,Statistik Austria - Bevoelkerung zu Jahresbeginn 2020 (OGD_bevstandjbab2002_BevStand_2020),municipality 40101
+AT,Salzburg,155021,2020,Statistik Austria - Bevoelkerung zu Jahresbeginn 2020 (OGD_bevstandjbab2002_BevStand_2020),municipality 50101
+AT,Wien,1911191,2020,Statistik Austria - Bevoelkerung zu Jahresbeginn 2020 (OGD_bevstandjbab2002_BevStand_2020),sum of the 23 districts 90101-92301
+CH,Genève (greater city),415360,2020,Eurostat urb_cpop1 (city CH003C Geneva (greater city)),missed by the name matching (Geneva vs Genève)
+FR,Annemasse,62880,2020,Eurostat urb_cpop1 (city FR076C Annemasse-Geneva FR part (greater city)),missed by the name matching
+FR,Cherbourg,77789,2020,Eurostat urb_cpop1 (city FR056C Cherbourg-en-Cotentin),missed by the name matching; equals the INSEE municipal population 2020
+FR,Saint-Nazaire,71887,2020,INSEE - Populations legales 2020 (population municipale; commune 44184),not an Eurostat city
+FR,Saint-Quentin,53100,2020,INSEE - Populations legales 2020 (population municipale; commune 02691),not an Eurostat city
+GR,Athina,2622404,2013,Eurostat urb_cpop1 (city EL001C Athina (greater city)),latest year available in Eurostat; same definition as the other greater cities

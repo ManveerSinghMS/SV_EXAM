@@ -1,0 +1,285 @@
+country,city,group,cluster_k2,cluster_k4,meanshift,cluster_k2_name,cluster_k4_name,pc1,pc2
+AT,Graz,Rest of Europe,2,2,0,Rest of Europe,Cold-winter particle smog,1.2832469238461839,0.9448531764415693
+AT,Innsbruck,Rest of Europe,2,4,0,Rest of Europe,Clean background,1.1225724810537454,1.2858594131011438
+AT,Klagenfurt,Rest of Europe,2,4,0,Rest of Europe,Clean background,0.7878739860138309,2.2684323715940455
+AT,Linz,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.6036955485899709,-0.7564189539644506
+AT,Salzburg,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.10844543949780876,0.3875253334788119
+AT,Wien,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.19709713991430025,-0.1015944996823499
+BE,Antwerpen,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.21866080362168894,-1.3977177759599844
+BE,Bruxelles / Brussel,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.5029017280499108,-0.6049922013317799
+BE,Charleroi,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.4775542315230191,-0.8712014952136856
+BE,Gent,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.10848169496907548,-0.7759856989386793
+BE,Liège,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.9600855054754844,-0.30075073432830907
+BE,Mons,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.2904966265238409,-1.2655670915518067
+CH,Bern (greater city),Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.40441107675665966,2.073698804807351
+CH,Genève (greater city),Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.08729213433842957,-0.972859695666683
+CH,Lausanne (greater city),Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.5456206744890539,1.6830722893898953
+CH,Winterthur,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.37330574465130667,1.8341611654934735
+CH,Zürich (greater city),Rest of Europe,2,4,0,Rest of Europe,Clean background,0.05174350945831381,1.475225359076733
+CZ,Brno,Rest of Europe,2,2,0,Rest of Europe,Cold-winter particle smog,0.43530797407094113,0.1881292642928455
+CZ,Ceské Budejovice,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.7309810517028396,0.5597885324094366
+CZ,Jihlava,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.428765827721969,-0.337506183753154
+CZ,Liberec,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.5397322242537076,0.36959448299346964
+CZ,Most,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.9870360657318161,-0.985397072997406
+CZ,Ostrava,Rest of Europe,2,2,0,Rest of Europe,Cold-winter particle smog,0.72573343449283,-0.19517941426940855
+CZ,Plzen,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.5305434226989523,-0.06562223288280965
+CZ,Praha,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.28920451629700417,-0.4975319229256497
+CZ,Zlín,Rest of Europe,2,2,0,Rest of Europe,Cold-winter particle smog,0.453737248038142,0.9211138646846502
+CZ,Ústí nad Labem,Rest of Europe,2,2,0,Rest of Europe,Cold-winter particle smog,0.9598752846792646,0.49310419457560173
+DE,Augsburg,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.25079201435974685,-0.3914694478857547
+DE,Berlin,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.2743416270567134,-0.5459117110763674
+DE,Brandenburg an der Havel,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.7473669925318478,-0.006468856874822683
+DE,Braunschweig,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-1.1070611080107746,0.315551140517602
+DE,Bremen,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.7073869849539349,0.010629048855667188
+DE,Bremerhaven,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.7336102401042225,-1.0735357478561545
+DE,Chemnitz,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.5885426797115314,0.8427334916444313
+DE,Cottbus,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.5445784411424581,0.34650354050457366
+DE,Darmstadt,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.4946881841007785,-0.3701216740623643
+DE,Dresden,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.3720522199348132,0.2674347170190108
+DE,Erfurt,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.816730968042714,-0.240125825727662
+DE,Essen,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",1.0863510819897073,-2.240724151518392
+DE,Frankfurt (Oder),Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.7196146497321027,-0.09947359537915536
+DE,Frankfurt am Main,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.3185274289268123,-1.0312258869037638
+DE,Freiburg im Breisgau,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.35557449513531697,1.1088624591649363
+DE,Friedrichshafen,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.05547547813268307,0.7095770936699746
+DE,Fulda,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.5955441360556715,-0.17414543577226213
+DE,Gera,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.5513138432077596,-0.9139952145831605
+DE,Göttingen,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.5256205393965165,0.8566025104141523
+DE,Halle an der Saale,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.8510202228250279,-1.0715542427700688
+DE,Hamburg,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.5631185400393612,-1.1616548257666788
+DE,Hanau,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.30668926766072047,-0.12258626527513412
+DE,Hannover,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.1586758946195985,0.1721965595949055
+DE,Heidelberg,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.5600385162951956,0.3462690870141231
+DE,Heilbronn,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.09468506534137526,-0.29348730155797664
+DE,Jena,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.7054671800618019,-0.5702906786680371
+DE,Kaiserslautern,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.6234570503911121,-0.07993742229325529
+DE,Karlsruhe,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.0694251549789461,0.7577139705374387
+DE,Kassel,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.6889619231944015,-0.02340175703493098
+DE,Konstanz,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.40486087208685234,0.2772452314460409
+DE,Köln,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.5906652497729399,-2.2356421626433867
+DE,Leipzig,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.8369661639600109,0.3145018121556903
+DE,Ludwigsburg,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.1304819749784019,0.4824134028758019
+DE,Ludwigshafen am Rhein,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.16998592263395476,-0.5436377816114532
+DE,Lübeck,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.4927430755452502,-1.001582734118916
+DE,Lüneburg,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.6638167416528022,0.9408538396601983
+DE,Magdeburg,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.1573920929386712,-0.6796976461007187
+DE,Mainz,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.5998811144721568,-1.2416125620748117
+DE,Mannheim,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.2780530387502034,-0.05126300116159778
+DE,Marburg,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.22502425130637768,-0.08524741731399897
+DE,München,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.24209203029008963,0.17763977804056563
+DE,Neu-Ulm,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.6601931598121958,-0.7891780568783457
+DE,Osnabrück,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.5755001917847637,0.4084890384703606
+DE,Pforzheim,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.35791475745319584,-0.5556052412474093
+DE,Potsdam,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.7274713100535473,-0.002793350711838471
+DE,Reutlingen,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.0689338980070773,-0.6146870470232572
+DE,Rostock,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-1.450259760416862,-1.6858130609711242
+DE,Saarbrücken,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.8519554895050266,-0.7067191744757593
+DE,Schweinfurt,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.5814965289301774,0.19640846458779235
+DE,Stuttgart,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.49052823766442827,-0.08141215587733046
+DE,Tübingen,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.19176664559563067,0.39908224031394224
+DE,Ulm,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.2129611031355601,-0.5278405704715393
+DE,Villingen-Schwenningen,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.9477390676296829,1.2458945129144268
+DE,Wetzlar,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.38068729727138895,-1.337178112834964
+DE,Wiesbaden,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.30630532004957683,-0.4788496519112685
+DE,Wolfsburg,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.1477123240109492,0.9752435087960998
+ES,A Coruña,Rest of Europe,2,2,0,Rest of Europe,Cold-winter particle smog,0.20140961882368866,-0.4979360024367703
+ES,Albacete,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.0071275812925002,1.5275994484422504
+ES,Alcoy,Rest of Europe,2,4,0,Rest of Europe,Clean background,-3.826808840690695,2.0450511581943376
+ES,Barcelona,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.12925472156033338,-1.1854298386083109
+ES,Bilbao,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-1.6462135809146579,-0.9518548512171078
+ES,Cartagena,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.08175635070645199,-0.5265059316252153
+ES,Ciudad Real,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.9770696420897002,-0.09988682603232209
+ES,Cuenca,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.3594568555689069,-1.8422473351222137
+ES,Elche/Elx,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.384133294944452,1.92479527560267
+ES,Elda,Rest of Europe,2,4,0,Rest of Europe,Clean background,-2.8441332593744684,0.9301307446906958
+ES,Gijón,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.1168390983910321,-0.3587050779566478
+ES,Granada,Rest of Europe,2,2,0,Rest of Europe,Cold-winter particle smog,0.5300618988056452,-0.6526803142563581
+ES,Guadalajara,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.34290772586152635,0.5447994891913014
+ES,Jerez de la Frontera,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.45847703859669087,0.31827151607426174
+ES,León,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.6886616235340317,1.2449336112096736
+ES,Logroño,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.9465711788959716,0.24627331880722483
+ES,Lorca,Rest of Europe,2,4,0,Rest of Europe,Clean background,-2.60668148323521,0.0121773651203943
+ES,Madrid,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.352802679070101,-0.32443019090630104
+ES,Mérida,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-2.0111814855316714,-0.330968470672337
+ES,Oviedo,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-1.6342782423572537,-0.4093200400496302
+ES,Palma de Mallorca,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-2.2355055044459298,-1.0052318886846057
+ES,Pamplona/Iruña,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.417593840239847,0.7743067101285116
+ES,Sagunto,Rest of Europe,2,4,0,Rest of Europe,Clean background,-2.3953340487894947,0.9545991465770616
+ES,Salamanca,Rest of Europe,2,4,0,Rest of Europe,Clean background,-2.0058535560479327,0.011647111421358594
+ES,San Sebastián/Donostia,Rest of Europe,2,4,0,Rest of Europe,Clean background,-2.011703539292999,0.29689971400257964
+ES,Santander,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-1.2324409566782608,-0.9560674064677046
+ES,Santiago de Compostela,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.9372834208036007,1.1317847627257456
+ES,Sevilla,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.6947628389070247,0.25437266038353856
+ES,Talavera de la Reina,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.3152847773762915,0.26460927520982397
+ES,Toledo,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.06340911341716429,-0.8608811198022054
+ES,Torrejón de Ardoz,Rest of Europe,2,4,0,Rest of Europe,Clean background,0.18959896871324766,0.5756623842472526
+ES,Torrelavega,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.7281040906750873,-0.48692007943902255
+ES,Valencia,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.5172349616269196,0.9060032036060789
+ES,Zaragoza,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.845729175397449,-0.5156626228971315
+ES,Ávila,Rest of Europe,2,4,0,Rest of Europe,Clean background,-2.3103277196059375,0.7253591714829857
+FI,Helsinki / Helsingfors (greater city),Rest of Europe,2,4,0,Rest of Europe,Clean background,-3.7612493431557863,0.21069868596955207
+FI,Oulu,Rest of Europe,2,4,0,Rest of Europe,Clean background,-4.2320437644442555,2.559759201272749
+FR,Amiens,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.9142042274374615,-0.30157245241736125
+FR,Angers,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.0765052322085782,1.843989939269624
+FR,Annecy,Rest of Europe,2,4,0,Rest of Europe,Clean background,0.44072967310495637,1.7847132271316333
+FR,Annemasse,Rest of Europe,2,4,0,Rest of Europe,Clean background,0.515689556267855,1.5868585667705275
+FR,Arras,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.4915679080480924,1.150923294834844
+FR,Avignon,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.03593384474424333,0.16099931870220652
+FR,Bayonne,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.4178536317439354,1.4224021443960542
+FR,Besançon,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.11982020532899086,0.8484622930391128
+FR,Bordeaux,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.42111440111794296,1.9417197808687559
+FR,Boulogne-sur-Mer,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-1.7096079984076824,-1.665650297365096
+FR,Bourges,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.8617685318482372,2.0031760259222344
+FR,Caen,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.63839689300862,0.475705527785313
+FR,Calais,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-1.0236881236706858,-1.498465674203381
+FR,Chambéry,Rest of Europe,2,4,0,Rest of Europe,Clean background,0.533953007753066,1.4781315091954277
+FR,Cherbourg,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-1.9732386376823354,-1.2295151199471943
+FR,Clermont-Ferrand,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.0596651600543363,1.4382920269731974
+FR,Creil,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.19974906899624906,-0.18947121324137672
+FR,Dijon,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.3512273733681431,0.8980679349355719
+FR,Douai,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.7222862702485949,0.2500083418234271
+FR,Dunkerque,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.9677667322629545,-1.5223878659848127
+FR,Fréjus,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.998584979495429,0.24405677006062457
+FR,Grenoble,Rest of Europe,2,4,0,Rest of Europe,Clean background,0.8512098005937652,1.365104317572018
+FR,La Rochelle,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.914376775604101,-0.5480077368336854
+FR,Le Havre,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.9624301120010164,0.06549591233497523
+FR,Le Mans,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.245121751551434,1.646890681306135
+FR,Limoges,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.1469402896150458,1.1534728403792158
+FR,Lorient,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.3256550020195845,1.3285768378934064
+FR,Lyon,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.6584743297180434,0.06150340436571125
+FR,Marseille,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.6297476908467132,-2.126271114801421
+FR,Metz,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.5362230720819227,-0.18011559813949332
+FR,Montpellier,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.4852042758238436,-0.7716337084069095
+FR,Mulhouse,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.37027752542319103,0.08491973029640734
+FR,Nancy,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.16511349399387185,0.03186349856881002
+FR,Nantes,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.7891818634935459,1.8307046198964414
+FR,Nice,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.3127729425144608,-1.075550896684692
+FR,Nîmes,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.2343594831158262,1.6980350428793274
+FR,Orléans,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.3108934263125243,1.5910029341238794
+FR,Paris (greater city),Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.18624400013017972,-0.752730812555255
+FR,Pau,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.3760593708291596,2.256782680112677
+FR,Perpignan,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.4431991844139103,0.8354391753432652
+FR,Poitiers,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.3526032371401997,0.40760493263763925
+FR,Reims,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.9118177748038537,0.39300047540759564
+FR,Roanne,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.3930339517955463,1.2417381842818895
+FR,Rouen,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.47799737791264324,0.7951704326743536
+FR,Saint-Brieuc,Rest of Europe,2,4,0,Rest of Europe,Clean background,-2.0024730064629646,1.2844162834396895
+FR,Saint-Etienne,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.7289032068921056,1.5511856485632431
+FR,Saint-Nazaire,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.4291243579253705,1.3464504545588858
+FR,Saint-Quentin,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.9285961872768788,0.07495281518580632
+FR,Strasbourg,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.45155427871782483,0.25843761016233996
+FR,Toulon,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.1652080984818866,-0.0970400237606268
+FR,Toulouse,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.4820218005320129,1.0003101842932571
+FR,Tours,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.1392895673961358,1.2613867189108603
+FR,Troyes,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.924678270659705,0.7014224715174971
+FR,Valence,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.04721693351662835,0.33161390682253916
+GR,Athina,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",1.0866220464212861,-1.121922810989179
+HR,Zagreb,Rest of Europe,1,2,1,Winter smog,Cold-winter particle smog,2.7922654061905487,-1.5002742828395232
+HU,Budapest,Rest of Europe,2,2,0,Rest of Europe,Cold-winter particle smog,1.1209835341459908,-0.7442338892832372
+HU,Debrecen,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.5555461536453288,-0.6534672920207991
+HU,Veszprém,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.5216623227157341,-0.21138484256718046
+IE,Dublin,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-1.814958868499717,-0.9997043397463314
+IT,Alessandria,Po Valley,1,1,1,Winter smog,Stagnant winter smog,4.190309883960677,0.5453000569162308
+IT,Ancona,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.43216911663529,-0.4991672502965736
+IT,Arezzo,Rest of Europe,2,4,0,Rest of Europe,Clean background,0.7122360424550969,1.1070685934741342
+IT,Asti,Po Valley,1,1,1,Winter smog,Stagnant winter smog,3.607155589189519,1.0299632815981945
+IT,Bari,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.4567032707960868,-1.4063179654632818
+IT,Barletta,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.07416921252341808,-0.6274387971671184
+IT,Battipaglia,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.2517031319596179,-1.448544492102181
+IT,Bergamo,Po Valley,1,1,1,Winter smog,Stagnant winter smog,4.82577016821712,1.6772642778878724
+IT,Bologna,Po Valley,1,1,1,Winter smog,Stagnant winter smog,2.586924796635885,2.1120376745126683
+IT,Brescia,Po Valley,1,1,1,Winter smog,Stagnant winter smog,4.194786511574092,0.5328324751500083
+IT,Brindisi,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.4838830732661998,-0.8877707799743505
+IT,Carpi,Po Valley,1,1,1,Winter smog,Stagnant winter smog,3.4075411648664,0.30174302209252357
+IT,Caserta,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.7243877600084837,-0.36167824131241527
+IT,Catanzaro,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-1.9571152918086507,-1.0781503250600393
+IT,Cosenza,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.2816260214462634,-0.3274221336110533
+IT,Cremona,Po Valley,1,1,1,Winter smog,Stagnant winter smog,4.6155894219226665,-1.1883138625689098
+IT,Ferrara,Po Valley,1,1,1,Winter smog,Stagnant winter smog,3.4992233615428705,2.4383474005636216
+IT,Firenze,Rest of Europe,2,4,0,Rest of Europe,Clean background,0.35039112006604106,1.4691023658730051
+IT,Forlì,Po Valley,1,1,1,Winter smog,Stagnant winter smog,2.527927516475805,2.379614592628813
+IT,Gela,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-1.5545669861153688,-0.9866146247952503
+IT,Genova,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.09812264370383862,-1.1983794707726794
+IT,L'Aquila,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.977903567241581,1.568771141841629
+IT,La Spezia,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.6210829747653647,-0.8276713127545439
+IT,Latina,Rest of Europe,2,2,0,Rest of Europe,Cold-winter particle smog,0.43025253538285513,-0.7619899406471549
+IT,Lecco,Rest of Europe,1,1,1,Winter smog,Stagnant winter smog,3.3182578868051853,3.3533513720188477
+IT,Milano (greater city),Po Valley,1,1,1,Winter smog,Stagnant winter smog,4.981518878121261,0.08831791013056423
+IT,Modena,Po Valley,1,1,1,Winter smog,Stagnant winter smog,3.6647537030052533,0.2575174567054132
+IT,Napoli (greater city),Rest of Europe,1,2,0,Winter smog,Cold-winter particle smog,1.8653866565293105,-1.7411401912428954
+IT,Novara,Po Valley,1,1,1,Winter smog,Stagnant winter smog,3.459276962327964,0.15689761935205987
+IT,Padova,Po Valley,1,1,1,Winter smog,Stagnant winter smog,4.808184693944955,-0.20258240599053917
+IT,Parma,Po Valley,1,1,1,Winter smog,Stagnant winter smog,3.4557141484158693,1.6349106377099767
+IT,Pavia,Po Valley,1,1,1,Winter smog,Stagnant winter smog,4.287571238535383,0.6020528860307801
+IT,Perugia,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.9132643988632186,-0.8554519230302007
+IT,Pesaro,Rest of Europe,2,2,0,Rest of Europe,Cold-winter particle smog,1.4649080639165146,-2.694801783141066
+IT,Pescara,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.6756784520209397,-1.441153680711955
+IT,Piacenza,Po Valley,1,1,1,Winter smog,Stagnant winter smog,3.4279158174489455,1.1248109486894986
+IT,Pisa,Rest of Europe,2,4,0,Rest of Europe,Clean background,0.9561496752684806,1.405727694030012
+IT,Ravenna,Po Valley,1,1,1,Winter smog,Stagnant winter smog,2.2379532247385363,1.7839731046563314
+IT,Reggio di Calabria,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-2.1691499087935355,-2.4663816455069165
+IT,Reggio nell'Emilia,Po Valley,1,1,1,Winter smog,Stagnant winter smog,3.0195018940452165,1.1603738721300663
+IT,Rimini,Po Valley,1,2,1,Winter smog,Cold-winter particle smog,2.0162359832180434,0.26731982524751796
+IT,Roma,Rest of Europe,2,2,0,Rest of Europe,Cold-winter particle smog,1.5346636808268677,-1.4216014577361589
+IT,Sassari,Rest of Europe,2,4,0,Rest of Europe,Clean background,-1.7037012226658605,0.6606506242522878
+IT,Sassuolo,Po Valley,1,1,1,Winter smog,Stagnant winter smog,2.676952155326311,0.6090462651592974
+IT,Savona,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.10646000173370401,-1.7583032516121488
+IT,Siracusa,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-1.7303593438637916,-1.1094433491323583
+IT,Taranto,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.7117421500598577,-1.5848815239279959
+IT,Terni,Rest of Europe,1,2,1,Winter smog,Cold-winter particle smog,1.9570045672193055,0.2979639421286343
+IT,Torino,Po Valley,1,1,1,Winter smog,Stagnant winter smog,4.884630208795352,0.1978567282109259
+IT,Trapani,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.9609526292591342,-1.5949032473456306
+IT,Trento,Rest of Europe,1,1,1,Winter smog,Stagnant winter smog,2.61008736540223,0.5288058205475629
+IT,Treviso,Po Valley,1,1,1,Winter smog,Stagnant winter smog,4.126895603640242,-0.25522421677124013
+IT,Trieste,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.6756924730730497,-0.924047965944216
+IT,Udine,Rest of Europe,1,1,1,Winter smog,Stagnant winter smog,1.9316498333250183,3.048737538809343
+IT,Venezia,Po Valley,1,1,1,Winter smog,Stagnant winter smog,4.116466795148233,-0.07402656799166578
+IT,Verona,Po Valley,1,1,1,Winter smog,Stagnant winter smog,3.2026501457311234,1.0860236922677304
+IT,Vicenza,Po Valley,1,1,1,Winter smog,Stagnant winter smog,4.471515208908097,0.5428621847957215
+LT,Panevezys,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-1.796559221262828,-1.406359587458185
+LT,Vilnius,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-1.128526867034344,-1.2890899295761848
+LU,Luxembourg,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.4288059207632221,-1.5296123833683866
+NO,Bergen,Rest of Europe,2,4,0,Rest of Europe,Clean background,-2.814906550246219,0.07884668373835621
+PL,Bydgoszcz,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,0.8341208207116894,-0.7781907611164754
+PL,Czestochowa,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,0.8901321342160838,-0.6537242441991967
+PL,Elblag,Poland,2,4,0,Rest of Europe,Clean background,-0.048209569986944596,1.231574372710749
+PL,Elk,Poland,2,4,0,Rest of Europe,Clean background,-0.9226212397614479,-0.07463427090771621
+PL,Gdansk,Poland,2,3,0,Rest of Europe,"Moderate, flat year",-1.3095979466978067,-0.8758318062693767
+PL,Gdynia,Poland,2,4,0,Rest of Europe,Clean background,-1.5637719375340118,-0.6091508054329066
+PL,Gorzów Wielkopolski,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,-0.1414351668613303,-1.0401185935569004
+PL,Jelenia Góra,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,0.969905796426147,0.9033498305760391
+PL,Kalisz,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,0.9360593015503151,-0.16423908447207436
+PL,Katowice,Poland,1,2,0,Winter smog,Cold-winter particle smog,2.0063648471198947,-1.5519655619512789
+PL,Kielce,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,0.8466647548238668,-1.0539954515884153
+PL,Konin,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,0.2294381518039652,-0.6393352583519282
+PL,Kraków,Poland,1,2,1,Winter smog,Cold-winter particle smog,2.611005487500685,-2.071141892516399
+PL,Legnica,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,1.2722862791735767,-1.1441942709408057
+PL,Lublin,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,0.15894110263225641,-1.5172077767586074
+PL,Olsztyn,Poland,2,4,0,Rest of Europe,Clean background,-1.014583749468482,0.2737254851370218
+PL,Opole,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,0.7047621948813119,0.16613954309175563
+PL,Piotrków Trybunalski,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,1.1987129406061607,-1.0340294257492444
+PL,Plock,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,-0.08678621299234274,-0.6067615259743676
+PL,Poznan,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,0.774334649395258,-1.1368585388897359
+PL,Przemysl,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,0.7583963907714604,-0.22551359948882194
+PL,Radom,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,1.0586564821580342,-1.8061967641839238
+PL,Rybnik,Poland,1,2,1,Winter smog,Cold-winter particle smog,3.118671404355381,-1.4573679769805217
+PL,Rzeszów,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,0.1787276973435171,-0.4874992953363427
+PL,Szczecin,Poland,2,4,0,Rest of Europe,Clean background,-0.9949732279125979,-0.356307323207879
+PL,Tarnów,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,1.0758427885644386,-1.3860551105829044
+PL,Walbrzych,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,0.4132500502773858,-0.5293973369419586
+PL,Warszawa,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,0.5393170427536564,-1.5359576952681013
+PL,Wloclawek,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,-0.22320549087099797,-0.5027294289301395
+PL,Wroclaw,Poland,2,2,0,Rest of Europe,Cold-winter particle smog,0.7796534830225222,-0.20412546752439534
+PL,Zabrze,Poland,1,2,1,Winter smog,Cold-winter particle smog,2.4885790584304863,-0.7599844572096102
+PL,Zielona Góra,Poland,2,4,0,Rest of Europe,Clean background,-0.3813207075003829,0.2366930057973404
+PT,Faro,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-1.8936487958986425,-0.5828090769447763
+PT,Lisboa (greater city),Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.1160710953742535,0.19255279079410798
+PT,Setúbal,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.8213293509201631,0.07115600345006726
+PT,Sintra,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.3048801347496337,2.3273496707223664
+PT,Vila Franca de Xira,Rest of Europe,2,4,0,Rest of Europe,Clean background,-0.6425208093999435,1.0103675284576417
+RO,Baia Mare,Rest of Europe,2,2,0,Rest of Europe,Cold-winter particle smog,0.9259822458712175,0.11453289219555746
+RO,Botosani,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",0.2847297330885988,-3.0380803391272377
+RO,Galati,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-0.5958796091624619,-1.3024586386586665
+RO,Ploiesti,Rest of Europe,2,2,0,Rest of Europe,Cold-winter particle smog,0.5790430996961241,-2.4665164474053736
+SE,Malmö,Rest of Europe,2,3,0,Rest of Europe,"Moderate, flat year",-2.3968260996478317,-0.6772851524053974
+SE,Stockholm (greater city),Rest of Europe,2,4,0,Rest of Europe,Clean background,-3.664148206089927,0.7727914335305228

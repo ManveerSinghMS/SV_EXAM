@@ -1,0 +1,290 @@
+country,city,dist_sea_km,population,population_year,eurostat_code,eurostat_name
+AT,Graz,199.8,,,,
+AT,Innsbruck,209.5,,,,
+AT,Klagenfurt,108.6,,,,
+AT,Linz,284.8,,,,
+AT,Salzburg,227.0,,,,
+AT,Wien,340.8,,,,
+BE,Antwerpen,22.5,530014.0,2020.0,BE002C,Antwerpen (greater city)
+BE,Bruxelles / Brussel,59.2,1223364.0,2020.0,BE001C,Bruxelles/Brussel (greater city)
+BE,Charleroi,108.5,203314.0,2020.0,BE004C,Charleroi (greater city)
+BE,Gent,33.9,263687.0,2020.0,BE003C,Gent
+BE,Liège,127.2,383700.0,2020.0,BE005C,Liège (greater city)
+BE,Mons,98.4,95922.0,2020.0,BE009C,Mons (greater city)
+CH,Bern (greater city),300.6,229391.0,2020.0,CH001C,Bern (greater city)
+CH,Genève (greater city),281.3,,,,
+CH,Lausanne (greater city),285.9,254398.0,2020.0,CH005C,Lausanne (greater city)
+CH,Winterthur,342.2,113173.0,2020.0,CH007C,Winterthur
+CH,Zürich (greater city),330.3,695019.0,2020.0,CH002C,Zurich (greater city)
+CZ,Brno,442.0,381346.0,2020.0,CZ002C,Brno
+CZ,Ceské Budejovice,362.4,94463.0,2020.0,CZ008C,České Budějovice
+CZ,Jihlava,430.0,51216.0,2020.0,CZ014C,Jihlava
+CZ,Liberec,321.8,104802.0,2020.0,CZ007C,Liberec (greater city)
+CZ,Most,353.8,66034.0,2020.0,CZ016C,Most
+CZ,Ostrava,494.3,287968.0,2020.0,CZ003C,Ostrava
+CZ,Plzen,440.3,174842.0,2020.0,CZ004C,Plzeň
+CZ,Praha,397.1,1324277.0,2020.0,CZ001C,Praha
+CZ,Zlín,489.9,74935.0,2020.0,CZ011C,Zlín
+CZ,Ústí nad Labem,332.2,92716.0,2020.0,CZ005C,Ústí nad Labem
+DE,Augsburg,334.3,296582.0,2020.0,DE031C,Augsburg
+DE,Berlin,141.1,3669491.0,2020.0,DE001C,Berlin
+DE,Brandenburg an der Havel,179.3,72184.0,2020.0,DE053C,Brandenburg an der Havel
+DE,Braunschweig,154.3,249406.0,2020.0,DE085C,Braunschweig
+DE,Bremen,36.8,567559.0,2020.0,DE012C,Bremen
+DE,Bremerhaven,2.1,113643.0,2020.0,DE105C,Bremerhaven
+DE,Chemnitz,329.7,246334.0,2020.0,DE084C,Chemnitz
+DE,Cottbus,210.8,99678.0,2020.0,DE117C,Cottbus
+DE,Darmstadt,355.2,159878.0,2020.0,DE023C,Darmstadt
+DE,Dresden,294.8,556780.0,2020.0,DE009C,Dresden
+DE,Erfurt,297.9,213981.0,2020.0,DE030C,Erfurt
+DE,Essen,187.5,582760.0,2020.0,DE006C,Essen
+DE,Frankfurt (Oder),144.5,57751.0,2020.0,DE027C,Frankfurt (Oder)
+DE,Frankfurt am Main,340.7,763380.0,2020.0,DE005C,Frankfurt am Main
+DE,Freiburg im Breisgau,404.3,231195.0,2020.0,DE025C,Freiburg im Breisgau
+DE,Friedrichshafen,325.4,61283.0,2020.0,DE069C,Friedrichshafen
+DE,Fulda,326.5,68635.0,2020.0,DE062C,Fulda
+DE,Gera,335.7,93125.0,2020.0,DE113C,Gera
+DE,Göttingen,223.2,118911.0,2020.0,DE020C,Göttingen
+DE,Halle an der Saale,272.5,238762.0,2020.0,DE017C,Halle an der Saale
+DE,Hamburg,13.0,1847253.0,2020.0,DE002C,Hamburg
+DE,Hanau,358.4,96492.0,2020.0,DE044C,Hanau
+DE,Hannover,132.9,536925.0,2020.0,DE013C,Hannover
+DE,Heidelberg,383.9,161485.0,2020.0,DE100C,Heidelberg
+DE,Heilbronn,431.9,126592.0,2020.0,DE107C,Heilbronn
+DE,Jena,316.9,111343.0,2020.0,DE125C,Jena
+DE,Kaiserslautern,330.7,100030.0,2020.0,DE041C,Kaiserslautern
+DE,Karlsruhe,393.8,312060.0,2020.0,DE033C,Karlsruhe
+DE,Kassel,241.2,202137.0,2020.0,DE091C,Kassel
+DE,Konstanz,341.9,84911.0,2020.0,DE051C,Konstanz
+DE,Köln,192.5,1087863.0,2020.0,DE004C,Köln
+DE,Leipzig,294.5,593145.0,2020.0,DE008C,Leipzig
+DE,Ludwigsburg,447.7,93584.0,2020.0,DE046C,Ludwigsburg (greater city)
+DE,Ludwigshafen am Rhein,362.9,172253.0,2020.0,DE096C,Ludwigshafen am Rhein
+DE,Lübeck,21.4,216530.0,2020.0,DE089C,Lübeck
+DE,Lüneburg,56.2,75711.0,2020.0,DE055C,Lüneburg
+DE,Magdeburg,200.3,237565.0,2020.0,DE018C,Magdeburg
+DE,Mainz,323.2,218578.0,2020.0,DE035C,Mainz
+DE,Mannheim,365.1,310658.0,2020.0,DE081C,Mannheim
+DE,Marburg,289.1,77129.0,2020.0,DE050C,Marburg
+DE,München,294.2,1484226.0,2020.0,DE003C,München
+DE,Neu-Ulm,368.9,58978.0,2020.0,DE073C,Neu-Ulm
+DE,Osnabrück,127.3,165251.0,2020.0,DE095C,Osnabrück
+DE,Pforzheim,421.0,125957.0,2020.0,DE111C,Pforzheim
+DE,Potsdam,160.3,180334.0,2020.0,DE038C,Potsdam
+DE,Reutlingen,409.8,115865.0,2020.0,DE115C,Reutlingen
+DE,Rostock,0.8,209191.0,2020.0,DE040C,Rostock
+DE,Saarbrücken,309.0,180374.0,2020.0,DE037C,Saarbrücken
+DE,Schweinfurt,390.6,53426.0,2020.0,DE074C,Schweinfurt
+DE,Stuttgart,438.0,635911.0,2020.0,DE007C,Stuttgart
+DE,Tübingen,418.7,91506.0,2020.0,DE047C,Tübingen
+DE,Ulm,370.1,126790.0,2020.0,DE110C,Ulm
+DE,Villingen-Schwenningen,404.1,85707.0,2020.0,DE048C,Villingen-Schwenningen
+DE,Wetzlar,312.1,52955.0,2020.0,DE076C,Wetzlar
+DE,Wiesbaden,319.2,278474.0,2020.0,DE019C,Wiesbaden
+DE,Wolfsburg,142.0,124371.0,2020.0,DE104C,Wolfsburg
+ES,A Coruña,1.1,247604.0,2020.0,ES025C,A Coruña (greater city)
+ES,Albacete,136.9,174336.0,2020.0,ES068C,Albacete
+ES,Alcoy,30.2,59354.0,2020.0,ES083C,Alcoy/Alcoi
+ES,Barcelona,8.7,3755512.0,2020.0,ES002C,Barcelona (greater city)
+ES,Bilbao,9.6,797590.0,2020.0,ES019C,Bilbao (greater city)
+ES,Cartagena,3.3,216108.0,2020.0,ES061C,Cartagena
+ES,Ciudad Real,248.6,75504.0,2020.0,ES043C,Ciudad Real
+ES,Cuenca,165.3,54621.0,2020.0,ES088C,Cuenca
+ES,Elche/Elx,9.8,234765.0,2020.0,ES060C,Elche/Elx
+ES,Elda,28.5,87054.0,2020.0,ES056C,Elda (greater city)
+ES,Gijón,7.0,271717.0,2020.0,ES023C,Gijón
+ES,Granada,46.3,404809.0,2020.0,ES059C,Granada (greater city)
+ES,Guadalajara,271.6,87484.0,2020.0,ES041C,Guadalajara
+ES,Jerez de la Frontera,16.9,213105.0,2020.0,ES062C,Jerez de la Frontera
+ES,León,109.2,124028.0,2020.0,ES072C,León (greater city)
+ES,Logroño,96.8,152485.0,2020.0,ES018C,Logroño
+ES,Lorca,30.6,95515.0,2020.0,ES091C,Lorca
+ES,Madrid,304.3,5098717.0,2020.0,ES001C,Madrid (greater city)
+ES,Mérida,187.1,59548.0,2020.0,ES092C,Mérida
+ES,Oviedo,28.4,219910.0,2020.0,ES013C,Oviedo
+ES,Palma de Mallorca,1.6,422587.0,2020.0,ES010C,Palma de Mallorca
+ES,Pamplona/Iruña,65.6,334398.0,2020.0,ES014C,Pamplona/Iruña (greater city)
+ES,Sagunto,5.0,67173.0,2020.0,ES093C,Sagunto (greater city)
+ES,Salamanca,253.2,144825.0,2020.0,ES067C,Salamanca (greater city)
+ES,San Sebastián/Donostia,5.9,188240.0,2020.0,ES063C,San Sebastián/Donostia (greater city)
+ES,Santa Cruz de Tenerife,3.8,368105.0,2020.0,ES024C,Santa Cruz de Tenerife (greater city)
+ES,Santander,1.5,173375.0,2020.0,ES015C,Santander
+ES,Santiago de Compostela,31.3,97848.0,2020.0,ES011C,Santiago de Compostela
+ES,Sevilla,54.6,884899.0,2020.0,ES004C,Sevilla
+ES,Talavera de la Reina,336.6,83663.0,2020.0,ES035C,Talavera de la Reina
+ES,Telde,2.5,102791.0,2020.0,ES027C,Telde
+ES,Toledo,318.3,85811.0,2020.0,ES016C,Toledo
+ES,Torrejón de Ardoz,287.8,132853.0,2020.0,ES081C,Torrejón de Ardoz
+ES,Torrelavega,11.5,51597.0,2020.0,ES094C,Torrelavega
+ES,Valencia,7.1,1417464.0,2020.0,ES003C,Valencia (greater city)
+ES,Zaragoza,163.3,681877.0,2020.0,ES005C,Zaragoza
+ES,Ávila,306.8,58369.0,2020.0,ES084C,Ávila
+FI,Helsinki / Helsingfors (greater city),5.1,653835.0,2020.0,FI001C,Helsinki/Helsingfors
+FI,Oulu,5.8,205489.0,2020.0,FI004C,Oulu/Uleåborg
+FR,Amiens,63.9,148046.0,2020.0,FR035C,Amiens (greater city)
+FR,Angers,93.9,207455.0,2020.0,FR024C,Angers (greater city)
+FR,Annecy,256.8,131766.0,2020.0,FR038C,Annecy (greater city)
+FR,Annemasse,273.9,,,,
+FR,Arras,86.7,67008.0,2020.0,FR064C,Arras (greater city)
+FR,Avignon,58.5,137818.0,2020.0,FR043C,Avignon (greater city)
+FR,Bayonne,3.9,126965.0,2020.0,FR040C,Bayonne (greater city)
+FR,Besançon,377.2,118258.0,2020.0,FR039C,Besançon
+FR,Bordeaux,19.2,752224.0,2020.0,FR005C,Bordeaux (greater city)
+FR,Boulogne-sur-Mer,1.0,73916.0,2020.0,FR060C,Boulogne-sur-Mer (greater city)
+FR,Bourges,284.3,64362.0,2020.0,FR068C,Bourges
+FR,Caen,17.3,181353.0,2020.0,FR031C,Caen (greater city)
+FR,Calais,2.3,67544.0,2020.0,FR061C,Calais (greater city)
+FR,Cayenne,2.6,65956.0,2020.0,FR072C,Cayenne
+FR,Chambéry,234.8,116648.0,2020.0,FR050C,Chambéry (greater city)
+FR,Cherbourg,3.6,,,,
+FR,Clermont-Ferrand,254.8,190086.0,2020.0,FR021C,Clermont-Ferrand (greater city)
+FR,Creil,119.3,77684.0,2020.0,FR059C,Creil (greater city)
+FR,Dijon,407.6,201491.0,2020.0,FR020C,Dijon (greater city)
+FR,Douai,88.1,85685.0,2020.0,FR052C,Douai (greater city)
+FR,Dunkerque,1.7,139991.0,2020.0,FR036C,Dunkerque (greater city)
+FR,Fréjus,4.1,91631.0,2020.0,FR049C,Fréjus (greater city)
+FR,Grenoble,200.2,366686.0,2020.0,FR012C,Grenoble (greater city)
+FR,La Rochelle,1.5,93800.0,2020.0,FR054C,La Rochelle (greater city)
+FR,Le Havre,1.2,190421.0,2020.0,FR022C,Le Havre (greater city)
+FR,Le Mans,139.1,153113.0,2020.0,FR029C,Le Mans (greater city)
+FR,Les Abymes,1.8,,,,
+FR,Limoges,163.1,141594.0,2020.0,FR032C,Limoges (greater city)
+FR,Lorient,3.3,80352.0,2020.0,FR055C,Lorient (greater city)
+FR,Lyon,249.3,1281504.0,2020.0,FR002C,Lyon (greater city)
+FR,Marseille,2.5,968466.0,2020.0,FR004C,Marseille (greater city)
+FR,Metz,289.1,168522.0,2020.0,FR027C,Metz (greater city)
+FR,Montpellier,4.8,370272.0,2020.0,FR011C,Montpellier (greater city)
+FR,Mulhouse,385.4,205130.0,2020.0,FR025C,Mulhouse (greater city)
+FR,Nancy,331.3,223459.0,2020.0,FR019C,Nancy (greater city)
+FR,Nantes,13.9,492505.0,2020.0,FR007C,Nantes (greater city)
+FR,Nice,0.9,462846.0,2020.0,FR008C,Nice (greater city)
+FR,Nîmes,36.2,147496.0,2020.0,FR028C,Nîmes
+FR,Orléans,208.1,244480.0,2020.0,FR018C,Orléans (greater city)
+FR,Paris (greater city),150.0,10274884.0,2020.0,FR001C,Paris (greater city)
+FR,Pau,92.8,109820.0,2020.0,FR042C,Pau (greater city)
+FR,Perpignan,13.9,140042.0,2020.0,FR037C,Perpignan (greater city)
+FR,Poitiers,118.5,100034.0,2020.0,FR047C,Poitiers (greater city)
+FR,Reims,207.5,207773.0,2020.0,FR017C,Reims (greater city)
+FR,Roanne,272.1,53393.0,2023.0,FR079C,Roanne (greater city)
+FR,Rouen,47.4,331613.0,2020.0,FR010C,Rouen (greater city)
+FR,Saint Denis,2.8,153001.0,2020.0,FR030C,Saint-Denis
+FR,Saint-Brieuc,5.2,71947.0,2020.0,FR069C,Saint-Brieuc (greater city)
+FR,Saint-Etienne,207.1,208554.0,2020.0,FR023C,Saint-Étienne (greater city)
+FR,Saint-Nazaire,2.1,,,,
+FR,Saint-Quentin,128.5,,,,
+FR,Strasbourg,401.0,432284.0,2020.0,FR009C,Strasbourg (greater city)
+FR,Toulon,3.4,239832.0,2020.0,FR015C,Toulon (greater city)
+FR,Toulouse,152.1,752705.0,2020.0,FR006C,Toulouse (greater city)
+FR,Tours,182.2,246785.0,2020.0,FR013C,Tours (greater city)
+FR,Troyes,276.9,113281.0,2020.0,FR044C,Troyes (greater city)
+FR,Valence,162.9,95210.0,2020.0,FR048C,Valence (greater city)
+GR,Athina,13.7,,,,
+HR,Zagreb,117.7,806772.0,2020.0,HR001C,Zagreb
+HU,Budapest,423.4,1750216.0,2020.0,HU001C,Budapest (greater city)
+HU,Debrecen,585.5,201112.0,2020.0,HU005C,Debrecen
+HU,Veszprém,324.1,59119.0,2020.0,HU013C,Veszprém
+IE,Dublin,8.7,1325700.0,2016.0,IE001C,Dublin (greater city)
+IT,Alessandria,56.5,92876.0,2020.0,IT079C,Alessandria
+IT,Ancona,0.2,99077.0,2020.0,IT017C,Ancona
+IT,Arezzo,87.4,98259.0,2020.0,IT080C,Arezzo
+IT,Asti,68.2,75051.0,2020.0,IT043C,Asti
+IT,Bari,2.8,315284.0,2020.0,IT008C,Bari
+IT,Barletta,1.2,93275.0,2020.0,IT037C,Barletta
+IT,Battipaglia,8.5,50411.0,2020.0,IT056C,Battipaglia
+IT,Bergamo,153.1,120783.0,2020.0,IT073C,Bergamo (greater city)
+IT,Bologna,75.6,395416.0,2020.0,IT009C,Bologna
+IT,Brescia,151.7,196340.0,2020.0,IT028C,Brescia
+IT,Brindisi,1.6,84465.0,2020.0,IT082C,Brindisi
+IT,Carpi,108.4,72369.0,2020.0,IT058C,Carpi
+IT,Caserta,29.8,73984.0,2020.0,IT020C,Caserta  (greater city)
+IT,Catanzaro,12.3,87397.0,2020.0,IT023C,Catanzaro
+IT,Cosenza,18.4,65623.0,2020.0,IT046C,Cosenza (greater city)
+IT,Cremona,109.3,72399.0,2020.0,IT013C,Cremona
+IT,Ferrara,48.4,132899.0,2020.0,IT070C,Ferrara
+IT,Firenze,81.6,366927.0,2020.0,IT007C,Firenze
+IT,Forlì,26.4,118292.0,2020.0,IT074C,Forlì
+IT,Gela,1.8,72187.0,2020.0,IT060C,Gela
+IT,Genova,0.8,565752.0,2020.0,IT006C,Genova
+IT,L'Aquila,61.3,70019.0,2020.0,IT087C,L'Aquila
+IT,La Spezia,4.6,92550.0,2020.0,IT035C,La Spezia
+IT,Latina,12.2,127037.0,2020.0,IT075C,Latina
+IT,Lecco,164.5,48058.0,2020.0,IT052C,Lecco
+IT,Milano (greater city),129.4,3622641.0,2020.0,IT002C,Milano (greater city)
+IT,Modena,97.0,189013.0,2020.0,IT029C,Modena
+IT,Napoli (greater city),5.3,2855958.0,2020.0,IT003C,Napoli (greater city)
+IT,Novara,113.7,103287.0,2020.0,IT078C,Novara
+IT,Padova,31.7,210077.0,2020.0,IT027C,Padova
+IT,Parma,88.2,200455.0,2020.0,IT066C,Parma
+IT,Pavia,88.8,71882.0,2020.0,IT044C,Pavia
+IT,Perugia,97.9,164880.0,2020.0,IT016C,Perugia
+IT,Pesaro,2.1,95152.0,2020.0,IT038C,Pesaro
+IT,Pescara,1.2,119862.0,2020.0,IT018C,Pescara (greater city)
+IT,Piacenza,85.6,104260.0,2020.0,IT032C,Piacenza
+IT,Pisa,10.3,90036.0,2020.0,IT040C,Pisa
+IT,Ravenna,6.0,158247.0,2020.0,IT069C,Ravenna
+IT,Reggio di Calabria,0.7,174885.0,2020.0,IT024C,Reggio di Calabria
+IT,Reggio nell'Emilia,89.0,171084.0,2020.0,IT068C,Reggio nell'Emilia
+IT,Rimini,2.5,149335.0,2020.0,IT071C,Rimini
+IT,Roma,25.1,2808293.0,2020.0,IT001C,Roma
+IT,Sassari,14.2,125273.0,2020.0,IT025C,Sassari
+IT,Sassuolo,81.5,40278.0,2020.0,IT063C,Sassuolo
+IT,Savona,1.8,59439.0,2020.0,IT047C,Savona
+IT,Siracusa,3.0,119056.0,2020.0,IT072C,Siracusa
+IT,Taranto,2.0,191050.0,2020.0,IT021C,Taranto
+IT,Terni,83.9,110003.0,2020.0,IT077C,Terni
+IT,Torino,104.8,857910.0,2020.0,IT004C,Torino
+IT,Trapani,2.1,65841.0,2020.0,IT083C,Trapani
+IT,Trento,112.0,120641.0,2020.0,IT014C,Trento
+IT,Treviso,21.6,85456.0,2020.0,IT041C,Treviso
+IT,Trieste,0.2,201613.0,2020.0,IT015C,Trieste
+IT,Udine,31.0,100170.0,2020.0,IT034C,Udine
+IT,Venezia,5.4,258685.0,2020.0,IT011C,Venezia
+IT,Verona,100.2,259087.0,2020.0,IT012C,Verona
+IT,Vicenza,59.1,109855.0,2020.0,IT076C,Vicenza
+LT,Panevezys,145.6,85885.0,2020.0,LT003C,Panevėžys
+LT,Vilnius,261.0,561836.0,2020.0,LT001C,Vilnius
+LU,Luxembourg,240.4,115227.0,2016.0,LU001C,Luxembourg (greater city)
+NO,Bergen,9.3,144699.0,2022.0,NO002C,Bergen
+PL,Bydgoszcz,146.9,339068.0,2020.0,PL008C,Bydgoszcz
+PL,Czestochowa,391.4,213942.0,2020.0,PL024C,Częstochowa
+PL,Elblag,23.8,115575.0,2020.0,PL063C,Elbląg
+PL,Elk,144.1,60471.0,2020.0,PL052C,Ełk
+PL,Gdansk,7.1,486542.0,2020.0,PL006C,Gdańsk
+PL,Gdynia,5.0,245739.0,2020.0,PL053C,Gdynia
+PL,Gorzów Wielkopolski,108.9,120526.0,2020.0,PL017C,Gorzów Wielkopolski
+PL,Jelenia Góra,315.3,77538.0,2020.0,PL019C,Jelenia Góra
+PL,Kalisz,295.5,96222.0,2020.0,PL027C,Kalisz
+PL,Katowice,454.7,286369.0,2020.0,PL010C,Katowice
+PL,Kielce,398.3,187427.0,2020.0,PL012C,Kielce
+PL,Konin,240.2,70162.0,2020.0,PL022C,Konin
+PL,Kraków,483.8,800531.0,2020.0,PL003C,Kraków
+PL,Legnica,291.0,95135.0,2020.0,PL067C,Legnica
+PL,Lublin,406.4,335114.0,2020.0,PL009C,Lublin
+PL,Olsztyn,93.9,170706.0,2020.0,PL014C,Olsztyn
+PL,Opole,401.3,127540.0,2020.0,PL016C,Opole
+PL,Piotrków Trybunalski,330.3,69274.0,2020.0,PL032C,Piotrków Trybunalski
+PL,Plock,204.8,114974.0,2020.0,PL026C,Płock
+PL,Poznan,208.1,547777.0,2020.0,PL005C,Poznań
+PL,Przemysl,560.9,58625.0,2020.0,PL040C,Przemysl
+PL,Radom,352.0,202259.0,2020.0,PL025C,Radom
+PL,Rybnik,472.4,134050.0,2020.0,PL060C,Rybnik
+PL,Rzeszów,516.8,194374.0,2020.0,PL015C,Rzeszów
+PL,Szczecin,25.6,397289.0,2020.0,PL007C,Szczecin
+PL,Tarnów,497.4,106596.0,2020.0,PL065C,Tarnów
+PL,Walbrzych,339.1,105007.0,2020.0,PL062C,Wałbrzych
+PL,Warszawa,260.8,1861774.0,2020.0,PL001C,Warszawa
+PL,Wloclawek,187.9,105180.0,2020.0,PL064C,Włocławek
+PL,Wroclaw,326.7,673592.0,2020.0,PL004C,Wrocław
+PL,Zabrze,448.2,158923.0,2020.0,PL056C,Zabrze
+PL,Zielona Góra,199.2,140148.0,2020.0,PL018C,Zielona Góra
+PT,Faro,1.8,68033.0,2020.0,PT009C,Faro (greater city)
+PT,Lisboa (greater city),1.7,1896018.0,2020.0,PT001C,Lisboa (greater city)
+PT,Setúbal,1.5,123599.0,2020.0,PT006C,Setúbal (greater city)
+PT,Sintra,8.9,384247.0,2020.0,PT014C,Sintra (greater city)
+PT,Vila Franca de Xira,0.1,137816.0,2020.0,PT016C,Vila Franca de Xira (greater city)
+RO,Baia Mare,510.5,145444.0,2018.0,RO029C,Baia Mare
+RO,Botosani,318.6,120153.0,2018.0,RO032C,Botoșani
+RO,Galati,87.5,304050.0,2018.0,RO025C,Galați
+RO,Ploiesti,219.0,227445.0,2018.0,RO027C,Ploiești
+SE,Malmö,2.3,344165.0,2020.0,SE003C,Malmö
+SE,Stockholm (greater city),1.0,1576798.0,2020.0,SE001C,Stockholm (greater city)

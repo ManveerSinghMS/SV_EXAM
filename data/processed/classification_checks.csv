@@ -1,0 +1,31 @@
+check,item,n,k,value,low,high
+"importance, family",Day–night range,,,-0.004706533776301092,-0.009523809523809601,0.0046511627906976605
+"importance, family",Humidity,,,0.014285714285714124,0.0,0.027906976744186074
+"importance, family",Rain (log),,,0.0,-0.004761904761904856,0.009523809523809601
+"importance, family",Solar radiation,,,-0.0023255813953488857,-0.014285714285714346,0.0071428571428571175
+"importance, family",Temperature family,,,0.10952380952380947,-0.014036544850498267,0.2127906976744186
+"importance, family",Wind (year + winter),,,0.20470653377630127,0.12857142857142864,0.27202380952380956
+"importance, single",Day–night range,,,-0.0046511627906976605,-0.010631229235880585,0.004761904761904745
+"importance, single",Frost days,,,0.004761904761904745,-0.004761904761904745,0.01904761904761909
+"importance, single",Humidity,,,0.014285714285714235,0.0,0.023809523809523836
+"importance, single","Mixing layer, winter (rough)",,,0.004651162790697605,-0.004761904761904745,0.009302325581395432
+"importance, single",Rain (log),,,0.0,-0.009302325581395321,0.01395348837209287
+"importance, single",Solar radiation,,,-0.004706533776301147,-0.014285714285714346,0.009302325581395432
+"importance, single",Temperature (year),,,0.014285714285714124,-0.00952380952380949,0.051162790697674376
+"importance, single",Wind (year),,,0.05714285714285727,0.01607142857142846,0.09047619047619043
+"importance, single",Winter temperature,,,0.004761904761904745,-0.024999999999999994,0.037430786267995564
+"importance, single",Winter wind,,,0.02857142857142847,0.009523809523809573,0.041860465116279055
+"hold-out, Po Valley over the limit flagged",12 blocks: Italian block hidden (Torino in training),16.0,16.0,0.5882438276720106,,
+"hold-out, Po Valley over the limit flagged","same, Torino removed from training",16.0,3.0,0.3966823777004913,,
+"hold-out, Po Valley over the limit flagged","all 25 Po Valley cities hidden (Terni, Napoli in training)",17.0,13.0,0.5585246605507636,,
+"hold-out, Po Valley over the limit flagged",all 57 Italian cities hidden,17.0,2.0,0.4366401127782614,,
+AUC by split,weather (M1) | random,,,0.9045931758530185,,
+AUC by split,weather (M1) | 12 geographic blocks,,,0.870472440944882,,
+AUC by split,weather (M1) | one country left out,,,0.6528215223097114,,
+AUC by split,latitude and longitude only | random,,,0.8270997375328084,,
+AUC by split,latitude and longitude only | 12 geographic blocks,,,0.7741469816272967,,
+AUC by split,latitude and longitude only | one country left out,,,0.4496062992125984,,
+"AUC difference, weather only minus with population (geographic)",random forest,,,0.036219889241288446,0.0033135465724752106,0.06688411588411576
+AUC among the Polish cities only (geographic scores),Poland,32.0,,0.4609375,,
+cities with identical weather,cities,41.0,20.0,,,
+mean score vs real share,"weather-only forest, geographic",,,0.16616821619392896,0.1056338028169014,

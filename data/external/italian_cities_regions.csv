@@ -1,0 +1,58 @@
+city,region,alpine_or_prealpine_valley
+Alessandria,Piemonte,False
+Ancona,Marche,False
+Arezzo,Toscana,False
+Asti,Piemonte,False
+Bari,Puglia,False
+Barletta,Puglia,False
+Battipaglia,Campania,False
+Bergamo,Lombardia,False
+Bologna,Emilia-Romagna,False
+Brescia,Lombardia,False
+Brindisi,Puglia,False
+Carpi,Emilia-Romagna,False
+Caserta,Campania,False
+Catanzaro,Calabria,False
+Cosenza,Calabria,False
+Cremona,Lombardia,False
+Ferrara,Emilia-Romagna,False
+Firenze,Toscana,False
+Forlì,Emilia-Romagna,False
+Gela,Sicilia,False
+Genova,Liguria,False
+L'Aquila,Abruzzo,False
+La Spezia,Liguria,False
+Latina,Lazio,False
+Lecco,Lombardia,True
+Milano (greater city),Lombardia,False
+Modena,Emilia-Romagna,False
+Napoli (greater city),Campania,False
+Novara,Piemonte,False
+Padova,Veneto,False
+Parma,Emilia-Romagna,False
+Pavia,Lombardia,False
+Perugia,Umbria,False
+Pesaro,Marche,False
+Pescara,Abruzzo,False
+Piacenza,Emilia-Romagna,False
+Pisa,Toscana,False
+Ravenna,Emilia-Romagna,False
+Reggio di Calabria,Calabria,False
+Reggio nell'Emilia,Emilia-Romagna,False
+Rimini,Emilia-Romagna,False
+Roma,Lazio,False
+Sassari,Sardegna,False
+Sassuolo,Emilia-Romagna,False
+Savona,Liguria,False
+Siracusa,Sicilia,False
+Taranto,Puglia,False
+Terni,Umbria,False
+Torino,Piemonte,False
+Trapani,Sicilia,False
+Trento,Trentino-Alto Adige,True
+Treviso,Veneto,False
+Trieste,Friuli-Venezia Giulia,False
+Udine,Friuli-Venezia Giulia,False
+Venezia,Veneto,False
+Verona,Veneto,False
+Vicenza,Veneto,False
