@@ -44,7 +44,7 @@ data/
 notebooks/       01_processing → 02_exploration → 03_clustering → 04_classification
 src/             shared code (style, groups, maps, validation) and the data scripts
 figures/         final figures (A = block A, B = block B, C = block C)
-slides/          the presentation and NUMBERS.md (every number of the slides, recomputed from the data)
+slides/          the presentation.
 ```
 
 ## How to run it
